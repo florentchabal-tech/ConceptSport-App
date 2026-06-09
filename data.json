@@ -1,0 +1,124 @@
+{
+  "baseUrl": "https://florentchabal-tech.github.io/ConceptSport-App",
+  "equipements": [
+    {
+      "id": "dips",
+      "nom": "Barres Parallèles — Dips",
+      "categorie": "Haut du corps",
+      "description": "Les barres parallèles permettent de travailler en profondeur les triceps et les pectoraux inférieurs. Idéales pour développer la force de poussée du haut du corps sans matériel lourd.",
+      "exercices": [
+        {
+          "id": "dips-semi-amplitude",
+          "titre": "Dips Semi-Amplitude",
+          "niveau": 2,
+          "duree": "3 séries × 10 répétitions",
+          "video": "capsule/2945_AGRES_A_DIPS_SEMI-AMPLITUDE_1.mp4",
+          "muscles": [
+            { "nom": "Triceps", "zone": "bras" },
+            { "nom": "Pectoraux inf.", "zone": "pectoraux" },
+            { "nom": "Deltoïde ant.", "zone": "epaules" }
+          ],
+          "posture": [
+            "Mains posées sur les barres, bras tendus, corps droit et vertical",
+            "Épaules abaissées et actives, éloignées des oreilles",
+            "Abdominaux gainés, regard vers l'avant",
+            "Coudes orientés vers l'arrière, jamais vers l'extérieur"
+          ],
+          "mouvement": [
+            "Inspirez et fléchissez les coudes lentement sur 2 à 3 secondes",
+            "Descendez jusqu'à ce que les bras forment un angle de 90°",
+            "Arrêtez-vous là : c'est la semi-amplitude, ne descendez pas plus bas",
+            "Expirez et poussez fort pour remonter jusqu'à l'extension complète"
+          ],
+          "conseil_coach": "La semi-amplitude n'est pas une facilité : c'est une technique. Elle protège les épaules des blessures tout en maintenant une tension maximale sur les triceps. Maîtrisez cette version avant d'aller plus bas. Un dips bien exécuté vaut dix dips bâclés."
+        }
+      ]
+    },
+    {
+      "id": "anneaux",
+      "nom": "Anneaux de Gymnaste",
+      "categorie": "Haut du corps",
+      "description": "Les anneaux de gymnaste sont l'outil le plus complet pour le haut du corps. L'instabilité naturelle des anneaux engage les stabilisateurs profonds en permanence, développant force, coordination et proprioception à chaque répétition.",
+      "exercices": [
+        {
+          "id": "anneaux-tirage",
+          "titre": "Tirage aux Anneaux",
+          "niveau": 2,
+          "duree": "3 séries × 8 répétitions",
+          "video": "capsule/8103_ANNEAUX_TIRAGE.mp4",
+          "muscles": [
+            { "nom": "Grand dorsal", "zone": "dos" },
+            { "nom": "Biceps", "zone": "bras" },
+            { "nom": "Trapèzes moy.", "zone": "dos" },
+            { "nom": "Rhomboïdes", "zone": "dos" }
+          ],
+          "posture": [
+            "Saisissez les anneaux, bras tendus, corps aligné de la tête aux pieds",
+            "Déprimez les épaules (abaissez-les) avant même de commencer",
+            "Gainage total : abdos et fessiers contractés dès le départ",
+            "Regard légèrement vers le haut pour conserver la nuque dans l'axe"
+          ],
+          "mouvement": [
+            "Amorcez la traction en ramenant les omoplates l'une vers l'autre",
+            "Tirez les anneaux vers vos hanches, coudes collés le long du corps",
+            "Montez jusqu'à ce que la poitrine arrive au niveau des anneaux",
+            "Redescendez lentement en 3 secondes, bras presque tendus avant de repartir"
+          ],
+          "conseil_coach": "Initiez le mouvement avec le dos, jamais avec les bras. Pensez à 'casser les anneaux vers l'extérieur' dès la première seconde pour activer immédiatement les grands dorsaux. Les bras suivent le dos — ils ne mènent pas le mouvement."
+        },
+        {
+          "id": "anneaux-tirage-jambes-pliees",
+          "titre": "Tirage Jambes Pliées",
+          "niveau": 1,
+          "duree": "3 séries × 10 répétitions",
+          "video": "capsule/8100_ANNEAUX_TIRAGE_JAMBES_PLIEES.mp4",
+          "muscles": [
+            { "nom": "Grand dorsal", "zone": "dos" },
+            { "nom": "Biceps", "zone": "bras" },
+            { "nom": "Trapèzes inf.", "zone": "dos" }
+          ],
+          "posture": [
+            "Fléchissez les genoux et posez les pieds à plat au sol, corps incliné vers l'arrière",
+            "Bras tendus, anneaux saisis fermement, paumes vers vous",
+            "Dos droit en permanence, pas de courbure lombaire excessive",
+            "Plus le corps se rapproche de l'horizontal, plus l'exercice devient intense"
+          ],
+          "mouvement": [
+            "Inspirez et tirez les anneaux vers la poitrine, coudes écartés à 45°",
+            "Contractez les omoplates ensemble en fin de mouvement",
+            "Marquez une pause d'une seconde en position haute, muscles contractés",
+            "Redescendez en contrôle jusqu'à l'extension complète des bras"
+          ],
+          "conseil_coach": "C'est la porte d'entrée idéale pour les débutants aux anneaux. Les pieds au sol réduisent la charge corporelle. Pour progresser sans changer d'exercice, éloignez simplement les pieds du point d'ancrage : le corps devient plus horizontal et l'effort augmente naturellement."
+        },
+        {
+          "id": "anneaux-squat-tirage",
+          "titre": "Squat-Tirage Combiné",
+          "niveau": 3,
+          "duree": "3 séries × 6 répétitions",
+          "video": "capsule/8388_CAPSULE_ANNEAUX_SQUAT_TIRAGE.mp4",
+          "muscles": [
+            { "nom": "Grand dorsal", "zone": "dos" },
+            { "nom": "Biceps", "zone": "bras" },
+            { "nom": "Quadriceps", "zone": "jambes" },
+            { "nom": "Ischio-jambiers", "zone": "jambes" },
+            { "nom": "Fessiers", "zone": "jambes" }
+          ],
+          "posture": [
+            "Debout face aux anneaux, bras tendus vers le haut, saisie ferme",
+            "Pieds écartés à la largeur des épaules, orteils légèrement ouverts vers l'extérieur",
+            "Corps en légère tension vers l'arrière, dos droit, épaules actives",
+            "Épaules abaissées et engagées dès la position de départ"
+          ],
+          "mouvement": [
+            "Descendez en squat profond en laissant les bras se tendre naturellement vers le haut",
+            "En bas du squat : pause d'une seconde, genoux alignés sur les orteils",
+            "Poussez fort avec les jambes et enchaînez immédiatement le tirage des anneaux",
+            "Expirez en fin de tirage, descendez lentement pour la répétition suivante"
+          ],
+          "conseil_coach": "Ne pensez pas à deux mouvements séparés : c'est une seule vague d'énergie qui part du sol et remonte jusqu'aux mains. La transition squat vers tirage doit être explosive et fluide, sans pause entre les deux. C'est là que réside toute la puissance de cet exercice."
+        }
+      ]
+    }
+  ]
+}
