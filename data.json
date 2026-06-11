@@ -120,5 +120,39 @@
         }
       ]
     }
+  ,
+    {
+      "id": "traction-standard",
+      "nom": "Barre Fixe — Traction",
+      "categorie": "Haut du corps",
+      "description": "La barre fixe est l'exercice roi du haut du corps en plein air. La traction standard développe la force de traction globale, l'épaisseur du dos et la coordination des muscles tireurs en chaîne.",
+      "exercices": [
+        {
+          "id": "traction-standard",
+          "titre": "Traction Standard",
+          "niveau": 2,
+          "duree": "3 séries × 8 répétitions",
+          "video": "capsule/traction standard.mp4",
+          "muscles": [
+            { "nom": "Dorsaux",    "zone": "dos" },
+            { "nom": "Biceps",     "zone": "bras" },
+            { "nom": "Trapèzes",   "zone": "dos" },
+            { "nom": "Avant-bras", "zone": "bras" }
+          ],
+          "posture": [
+            "Saisir la barre en pronation, mains écartées à la largeur des épaules",
+            "Bras tendus, corps gainé, suspension complète avant de démarrer",
+            "Épaules abaissées loin des oreilles, actives dès le départ",
+            "Regard vers la barre, nuque dans l'axe du dos"
+          ],
+          "mouvement": [
+            "Inspirer, puis tirer vers le haut jusqu'à ce que le menton dépasse la barre",
+            "Redescendre lentement en 3 secondes de façon parfaitement contrôlée",
+            "Revenir à la suspension complète avant chaque répétition"
+          ],
+          "conseil_coach": "Éviter de balancer le corps : la descente doit être aussi contrôlée que la montée. Un corps qui se balance, c'est de l'énergie volée au dos. Chaque répétition propre vaut dix répétitions bâclées."
+        }
+      ]
+    }
   ]
 }
