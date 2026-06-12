@@ -141,11 +141,11 @@ function renderEquipement(id, exerciceIdx = 0) {
         <span class="page-header-title">${eq.nom}</span>
       </div>
       <div class="video-wrap">
-        <video id="exVideo" autoplay muted loop playsinline
+        <video id="exVideo" autoplay ${ex.muted === false ? '' : 'muted'} loop playsinline
                poster="" onerror="this.style.background='#0f1117'">
           <source src="${ex.video}" type="video/mp4">
         </video>
-        <button class="btn-mute" id="btnMute" onclick="toggleMute()">🔇</button>
+        <button class="btn-mute" id="btnMute" onclick="toggleMute()">${ex.muted === false ? '🔊' : '🔇'}</button>
       </div>
       <div class="equip-info">
         <h2 class="equip-nom">${formatNom(eq.nom)}</h2>

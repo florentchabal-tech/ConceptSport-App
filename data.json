@@ -128,6 +128,33 @@
       "description": "La barre fixe est l'exercice roi du haut du corps en plein air. La traction standard développe la force de traction globale, l'épaisseur du dos et la coordination des muscles tireurs en chaîne.",
       "exercices": [
         {
+          "id": "barre-haute-roulade-arriere-avec-elan",
+          "titre": "Roulade Arrière avec Élan",
+          "niveau": 3,
+          "duree": "3 séries × 5 répétitions",
+          "video": "videos/traction/traction%20avec%20roulade.mp4",
+          "muted": false,
+          "muscles": [
+            { "nom": "Grand dorsal", "zone": "dos" },
+            { "nom": "Biceps",       "zone": "bras" },
+            { "nom": "Abdominaux",   "zone": "abdos" },
+            { "nom": "Avant-bras",   "zone": "bras" }
+          ],
+          "posture": [
+            "Saisir la barre en pronation, mains écartées à la largeur des épaules",
+            "Corps en suspension complète, bras tendus, regard vers la barre",
+            "Épaules actives et abaissées avant d'initier le mouvement",
+            "Abdominaux gainés en permanence pour protéger le bas du dos"
+          ],
+          "mouvement": [
+            "Prendre de l'élan en balançant les jambes vers l'avant",
+            "Au retour arrière, enclencher la rotation des hanches vers la barre",
+            "Ramener les genoux au-dessus de la barre et basculer en roulade arrière",
+            "Terminer la rotation en position de suspension ou d'appui selon la variante"
+          ],
+          "conseil_coach": "L'élan n'est pas de la triche : c'est de l'énergie cinétique au service du mouvement. Apprenez à lire le timing de la bascule — trop tôt ou trop tard, la rotation ne passe pas. Maîtrisez d'abord la roulade depuis l'appui avant de l'enchaîner avec l'élan."
+        },
+        {
           "id": "traction-standard",
           "titre": "Traction Standard",
           "niveau": 2,
